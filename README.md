@@ -11,7 +11,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br&layout=compact" alt="KingTeox" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingTeox&theme=dark" alt="KingTeox" /></p>
 
