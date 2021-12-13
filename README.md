@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Ola 👋, Eu Sou o Teox</h1>
+<h3 align="center">Sou um programador de node js que mora em Curitiba PR</h3>
 
-<!--
-**KingTeox/KingTeox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=c111e4&style=flat-square" alt="imlarx" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Minha redes:</h3>
+<p align="left">
+<a href="https://twitter.com/KingTeox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imlarx" height="30" width="40" /></a>
+<a href="https://instagram.com/kingxteox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imlarx" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)
