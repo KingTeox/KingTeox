@@ -33,8 +33,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingTeox&theme=dark" /></p>
 </details>
 
-![Snake animation](https://github.com/KingTeox/KingTeox/blob/output/github-contribution-grid-snake.svg)
-
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)
 
 </div>
