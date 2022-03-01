@@ -19,5 +19,5 @@
 </details>
 <details>
 <summary>Discord:</summary>
-<p>/>![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)</p>
+<a>![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)</a>
 </details>
