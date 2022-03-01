@@ -9,7 +9,7 @@
 <a href="https://instagram.com/kingxteox/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="KingTeox" height="40" width="40" /></a>
 </p>
 
-<h4 align="left">Estatisticas:</h4>
+<h3 align="left">Estatisticas:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" /></p>
