@@ -1,8 +1,9 @@
 <div>
 <h1>Ola, Eu Sou o Teox</h1>
-<h4 align="center">Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e PowerShell Script, Moro atualmente em Curitiba PR e Começei a Estudar Programaçao no começo de 2021.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=c111e4&style=flat-square" alt="KingTeox" /> </p>
+<h4> 
+Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e PowerShell Script, Moro atualmente em Curitiba PR e Começei a Estudar Programaçao no começo de 2021.
+</h4>
 
 <details>
   <summary>Frameworks</summary>
@@ -25,6 +26,9 @@
 <div>
 <details>
 <summary>Status:</summary>
+<p> 
+   <img align="center" src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=c111e4&style=flat-square" alt="KingTeox" /> 
+</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
 <p>
