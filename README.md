@@ -16,7 +16,7 @@
 </details>
 <details>
 <summary>Status:</summary>
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" />
 </p>
 <p>
