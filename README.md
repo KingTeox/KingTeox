@@ -5,8 +5,8 @@
 
 <h3 align="left">Minha redes:</h3>
 <p align="left">
-<a href="https://twitter.com/KingTeox/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="KingTeox" height="30" width="40" /></a>
-<a href="https://instagram.com/kingxteox/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="KingTeox" height="30" width="40" /></a>
+<a href="https://twitter.com/KingTeox/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="KingTeox" height="40" width="40" /></a>
+<a href="https://instagram.com/kingxteox/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="KingTeox" height="40" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" /></p>
