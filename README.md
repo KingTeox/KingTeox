@@ -1,5 +1,5 @@
-<h1 align="center">Ola 👋, Eu Sou o Teox</h1>
-<h3 align="center">Sou um programador de Node JS, Sei o basico de Html,css,js,c,c++ e PowerShell Script que mora em Curitiba PR</h3>
+<h1>Ola, Eu Sou o Teox</h1>
+<h4 align="center">Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e PowerShell Script, Moro atualmente em Curitiba PR e Começei a Estudar Programaçao no começo de 2021.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=c111e4&style=flat-square" alt="KingTeox" /> </p>
 <details>
