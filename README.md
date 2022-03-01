@@ -39,4 +39,6 @@ Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e Power
 
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)
 
+![Snake animation](https://github.com/KingTeox/KingTeox/blob/output/github-contribution-grid-snake.svg)
+
 </div>
