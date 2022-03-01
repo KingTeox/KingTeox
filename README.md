@@ -6,14 +6,11 @@
 <h3 align="left">Minha redes:</h3>
 <p align="left">
 <a href="https://twitter.com/KingTeox/" target="blank"> 
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="KingTeox" height="40" width="40"
-</a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="KingTeox" height="40" width="40"</a>
 <a href="https://instagram.com/kingxteox/" target="blank"> 
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="KingTeox" height="40" width="40"
-</a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="KingTeox" height="40" width="40"</a>
 <a href="https://www.facebook.com/profile.php?id=100008257969126" target="blank"> 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="KingTeox" height="40" width="40"
-</a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="KingTeox" height="40" width="40"</a>
 </p>
 
 <h3 align="left">Estatisticas:</h3>
