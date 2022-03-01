@@ -17,7 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" alt="KingTeox" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingTeox&theme=dark" alt="KingTeox" /></p>
 </details>
-<details>
-<summary>Discord:</summary>
+
 <a>![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)</a>
-</details>
