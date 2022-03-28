@@ -5,6 +5,11 @@
 Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e PowerShell Script, Moro atualmente em Curitiba PR e Começei a Estudar Programaçao no começo de 2021.
 </h4>
 
+<p>
+  <img align="center" src="https://img.shields.io/github/followers/KingTeox?style=social" />
+  <img align="center" src="https://img.shields.io/github/stars/KingTeox?style=social" /> 
+  <img align="center" src="https://img.shields.io/discord/921580343595765800?color=5865F2&logo=discord&logoColor=white" /> </p>
+  
 <details>
   <summary>Frameworks</summary>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -35,6 +40,7 @@ Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e Power
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingTeox&theme=dark" /></p>
+
 </details>
 
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/462980817040310283.png)
