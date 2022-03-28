@@ -2,7 +2,7 @@
 <h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox e também CEO da TM041 Store</h1>
 
 <h4> 
-  Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e PowerShell Script, Moro atualmente em Curitiba PR e Começei a Estudar Programaçao no começo de 2021.
+  Eu sou um programador de Bots para o Discord, Uso o discord.js Junto com o Node JS e Tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e Começei a Estudar Programaçao Entre 2018 e 2019.
 </h4>
  <p>
   
