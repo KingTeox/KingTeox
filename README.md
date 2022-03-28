@@ -1,5 +1,5 @@
 <div>
-<h1>Ola Bom dia, Eu Sou o Carlos mais conhecido como Teox e tambem CEO da TM041 Store</h1>
+<h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox e também CEO da TM041 Store</h1>
 
 <h4> 
   Eu sou um programador de Node JS Porem sei o basico de Html,css,js,c,c++ e PowerShell Script, Moro atualmente em Curitiba PR e Começei a Estudar Programaçao no começo de 2021.
