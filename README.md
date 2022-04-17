@@ -1,5 +1,5 @@
 <div>
-<h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox, Team BL</h1>
+<h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox, CEO TM041 Store</h1>
 
 <h4> 
   Eu sou um programador de Bots para o Discord, Uso o discord.js Junto com o Node JS e tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e começei a estudar programaçao Entre 2018 e 2019.
