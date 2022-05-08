@@ -2,7 +2,7 @@
 <h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox, CEO TM041 Store</h1>
 
 <h4> 
-  Eu sou um programador de Bots para o Discord, Uso o discord.js Junto com o Node JS e tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e começei a estudar programaçao Entre 2018 e 2019.
+  Eu sou um programador BackEnd e faço Bots para o Discord, Uso o discord.js e Node JS, Tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e começei a estudar programaçao Entre 2018 e 2019.
 </h4>
 <p>
     <img align="center" src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=5865F2&style=flat-square" alt="KingTeox" /> 
