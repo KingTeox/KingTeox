@@ -2,11 +2,10 @@
 <h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox</h1>
 
 <h4> 
-  Eu sou um programador BackEnd e faço Bots para o Discord, Uso o discord.js e Node JS, Tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e começei a estudar programaçao Entre 2018 e 2019.
+  Eu sou um programador BackEnd e faço Bots e Sistemas customizados para o Discord, Uso o discord.js e Node JS, Tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e começei a estudar programaçao Entre 2018 e 2019.
 </h4>
 <p>
     <img align="center" src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=5865F2&style=flat-square" alt="KingTeox" /> 
-    <img align="center" src="https://img.shields.io/discord/921580343595765800?color=5865F2&logo=discord&logoColor=white" />
     <img align="center" src="https://img.shields.io/github/followers/KingTeox?color=5865F2&style=social" />
     <img align="center" src="https://img.shields.io/github/stars/KingTeox?color=5865F2&style=social" /> 
     
