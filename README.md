@@ -1,5 +1,5 @@
 <div>
-<h1>Olá bom dia, eu sou o Carlos mais conhecido como Teox</h1>
+<h1>Olá bom dia, Eu sou o Carlos mais conhecido como Teox</h1>
 
 <h4> 
   Eu sou um programador BackEnd e faço Bots e Sistemas customizados para o Discord, Uso o discord.js e Node JS, Tambem sei o basico de: Html,css,js,c,c++ e PowerShell Script, Atualmente moro em Curitiba PR e começei a estudar programaçao Entre 2018 e 2019.
