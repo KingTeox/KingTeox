@@ -11,10 +11,12 @@
     
 </p>
 <p>
-  <img src="./"/>
-  <img src="./"/>
-  <img src="./"/>
-  <img src="./"/>
+  <img align="center" src="./public/node.svg" height="50" width="50"/>
+  <img align="center" src="./public/cloudflare.svg" height="50" width="50"/>
+  <img align="center" src="./public/git.svg" height="50" width="50"/>
+  <img align="center" src="./public/docker.svg" height="50" width="50"/>
+  <img align="center" src="./public/yarn.svg" height="100" width="100"/>
+  <img align="center" src="./public/mongodb.svg" height="80" width="100"/>
 </p>
 </div>
 
