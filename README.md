@@ -22,9 +22,9 @@
 </div>
 
 <div id="Redes">
-  <a href="https://www.instagram.com/kingxteox/" target="_blank">
+  <a href="https://www.instagram.com/kazeker.cwb/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/KingTeox" target="_blank">
+  <a href="https://twitter.com/kazeker_cwb" target="_blank">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
   ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/1027410403325648948.png)
