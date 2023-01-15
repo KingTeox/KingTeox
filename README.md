@@ -1,8 +1,8 @@
 <div id="Main">
-<h1>Olá bem vindo, Eu sou o Carlos mais conhecido como Teox</h1>
+<h1>Olá bem vindo, Meu nome é Carlos sou mais conhecido como Teox</h1>
 
 <h4> 
-  Eu sou um programador BackEnd e faço Bots e Sistemas customizados para o Discord, Atualmente moro em Curitiba PR e começei a estudar programaçao entre 2018 e 2019.
+  Eu sou um programador Backend e faço Bots e Sistemas customizados para o Discord, Atualmente moro em Curitiba PR e começei a estudar programaçao entre 2018 e 2019.
 </h4>
 
 <p>
