@@ -31,10 +31,10 @@
 <div id="Estatisticas">
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
+  <img align="center" src="https://github-readme-o34g.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
   
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
+  <img align="center" src="https://github-readme-o34g.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingTeox&theme=dark" /></p>
