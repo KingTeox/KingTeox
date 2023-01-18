@@ -39,10 +39,13 @@
   <a href="https://www.instagram.com/tx.041/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/kazeker_cwb" target="_blank">
-     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5541999166069&text=Ola,%20vi%20seu%20numero%20em%20seu%20github.">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  <a href="https://steamcommunity.com/id/KingxTeox">
+     <img src"https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/1027410403325648948.png)
 </div>
 <div id="Estatisticas">
