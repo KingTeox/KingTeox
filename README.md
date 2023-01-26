@@ -6,12 +6,16 @@
     Eu sou um programador Backend e faço Bots e Sistemas customizados para o Discord, Atualmente moro em Curitiba PR e começei a estudar programaçao entre 2018 e 2019.
   </h4>
 
-  <p>
+  <br><p>
     <img align="center" src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=5865F2&style=flat-square" alt="KingTeox" /> 
     <img align="center" src="https://img.shields.io/github/followers/KingTeox?color=5865F2&style=social" />
     <img align="center" src="https://img.shields.io/github/stars/KingTeox?color=5865F2&style=social" /> 
   </p>
 
+  <p>
+    <img align="center" src="https://github-readme-o34g.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" />
+  </p>
+  
 </div>
 
 <div id="Tools">
@@ -33,7 +37,7 @@
     <a href="https://mongodb.com/" class="mongodb">
         <img align="center" src="./public/mongodb.svg" height="80" width="100"/>
     </a>
-</div>
+</div><br>
 
 <div id="Redes">
   <a href="https://www.instagram.com/tx.041/" target="_blank">
@@ -47,11 +51,9 @@
      <img src"https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/1027410403325648948.png)
-</div>
-<div id="Estatisticas">
+</div><br>
 
-<p>
-  <img align="center" src="https://github-readme-o34g.vercel.app/api/top-langs?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
+<div id="Estatisticas">
   
 <p>
   <img align="center" src="https://github-readme-o34g.vercel.app/api?username=KingTeox&show_icons=true&theme=github_dark&locale=pt-br" /></p>
