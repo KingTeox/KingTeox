@@ -7,12 +7,15 @@
     Sobre mim:
     
       Meu nome é Carlos, mais conhecido como Teox;
-      Eu sou um programador Backend e faço bots, sistemas customizados para o Discord ou WebSites;
+      Eu sou um programador Backend; 
+      Sei sobre serviços em Nuvem;
+      Vendo bots Sistemas customizados para o Discord ou WebSites;
       Atualmente morando em Almirante Tamandaré - PR;
-      Começei a estudar programaçao entre 2018/2019, mais sempre fui revolucionario na area da tecnologia;
+      Começei a estudar programaçao entre 2018/2019;
     
     Curiosidades:
     
+      Sempre fui obcecado na area da tecnologia;
       Começei a estudar programaçao com C/C++, game hacking;
       Sempre aprendo coisas novas, rapido;
       Quero me especializar em Backend;
