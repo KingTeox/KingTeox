@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/kazeker_cwb" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5541999166069&text=Ola,%20vi%20seu%20numero%20em%20seu%20github.">
+  <a href="https://api.whatsapp.com/send?phone=554198306684&text=Ola,%20vi%20seu%20numero%20em%20seu%20github.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
   <a href="https://steamcommunity.com/id/KingxTeox">
