@@ -1,12 +1,34 @@
 <div id="Main">
 
-  <h1>Olá seja muito bem vindo(a), meu nome é Carlos, mais conhecido como Teox.</h1>
+  <h1>Olá seja muito bem vindo(a).</h1>
+  
+  <h3>
+    
+    Sobre mim:
+    
+      Meu nome é Carlos, mais conhecido como Teox;
+      Eu sou um programador Backend e faço bots, sistemas customizados para o Discord ou WebSites;
+      Atualmente morando em Almirante Tamandaré - PR;
+      Começei a estudar programaçao entre 2018/2019, mais sempre fui revolucionario na area da tecnologia;
+    
+    Curiosidades:
+    
+      Começei a estudar programaçao com C/C++, game hacking;
+      Sempre aprendo coisas novas, rapido;
+      Quero me especializar em Backend;
+      Sou um garoto Prodigio, mais sem oportunidades;
+      Estou aberto pra contrataçoes;
+    
+    Caracteristicas:
+    
+      Tamanho: 1,83 +/-;
+      Idade:   17 anos;
+      Cor:     Branco;
+      Peso:    100kg;
+      Olhos:   Verdes;
+  </h3>
 
-  <h4>
-    Eu sou um programador Backend e faço bots, sistemas customizados para o Discord ou WebSites, atualmente moro em Curitiba PR e começei a estudar programaçao entre 2018 e 2019.
-  </h4>
-
-  <br><p>
+  <p>
     <img align="center" src="https://komarev.com/ghpvc/?username=KingTeox&label=Profile%20views&color=5865F2&style=flat-square" alt="KingTeox" /> 
     <img align="center" src="https://img.shields.io/github/followers/KingTeox?color=5865F2&style=social" />
     <img align="center" src="https://img.shields.io/github/stars/KingTeox?color=5865F2&style=social" /> 
