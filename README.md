@@ -9,25 +9,25 @@
       Meu nome é Carlos, mais conhecido como Teox;
       Eu sou um programador Backend; 
       Sei sobre serviços em Nuvem;
-      Vendo bots e tambem sistemas customizados para o Discord ou WebSites;
-      Atualmente morando em Almirante Tamandaré - PR;
-      Começei a estudar programaçao entre 2018/2019;
+      Vendo bots e também sistemas customizados para o Discord ou Web-sites;
+      Atualmente morando em Almirante Tamandaré — PR;
+      Comecei a estudar programação entre 2018/2019;
     
     Curiosidades:
     
-      Sempre fui obcecado na area da tecnologia;
-      Começei a estudar programaçao com C/C++, game hacking;
-      Sempre aprendo coisas novas, rapido;
+      Sempre fui obcecado na área da tecnologia;
+      Comecei a estudar programação com C/C++, game hacking;
+      Sempre aprendo coisas novas, rápido;
       Quero me especializar em Backend;
-      Sou um garoto Prodigio, mais sem oportunidades;
-      Estou aberto pra contrataçoes;
+      Sou um garoto Prodígio, mais sem oportunidades;
+      Estou aberto para contratações;
     
-    Caracteristicas:
+    Características:
     
       Tamanho: 1,83 +/-;
       Idade:   17 anos;
       Cor:     Branco;
-      Peso:    100kg;
+      Peso:    100 kg;
       Olhos:   Verdes;
   </h3>
 
