@@ -22,13 +22,6 @@
       Sou um garoto Prodígio, mais sem oportunidades;
       Estou aberto para contratações;
     
-    Características:
-    
-      Tamanho: 1,83 +/-;
-      Idade:   17 anos;
-      Cor:     Branco;
-      Peso:    100 kg;
-      Olhos:   Verdes;
   </h3>
 
   <p>
