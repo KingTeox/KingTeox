@@ -64,6 +64,4 @@
   <a href="https://www.buymeacoffee.com/teox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Teox" /></a></p><br><br>
 <p>
 
-![Snake animation](https://github.com/KingTeox/KingTeox/blob/output/github-contribution-grid-snake.svg)
-
 </div>
