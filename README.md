@@ -19,8 +19,7 @@
       Comecei a estudar programação com C/C++, game hacking;
       Sempre aprendo coisas novas, rápido;
       Quero me especializar em Backend;
-      Sou um garoto Prodígio/Superdotação de altas habilidades;
-      Estou aberto para contratações;
+      Sou um garoto Prodígio;
     
   </h3>
 
