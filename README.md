@@ -52,8 +52,6 @@
      <a href="https://steamcommunity.com/id/KingxTeox"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" eight="90" width="90" target="_blank" alt="Steam"/></a>
   </p>
   
-![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/1027410403325648948.png)
-
 </div><br>
 
 <div id="Estatisticas">
